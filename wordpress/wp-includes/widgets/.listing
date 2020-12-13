@@ -1,0 +1,20 @@
+total 176
+-rw-r--r-- 1 nobody nogroup  6553 Aug 12 10:44 class-wp-nav-menu-widget.php
+-rw-r--r-- 1 nobody nogroup  6764 Aug 12 10:44 class-wp-widget-archives.php
+-rw-r--r-- 1 nobody nogroup  2871 Aug 12 10:44 class-wp-widget-calendar.php
+-rw-r--r-- 1 nobody nogroup  7022 Aug 12 10:44 class-wp-widget-categories.php
+-rw-r--r-- 1 nobody nogroup 12142 May 06  2020 class-wp-widget-custom-html.php
+-rw-r--r-- 1 nobody nogroup  7311 Aug 12 10:44 class-wp-widget-links.php
+-rw-r--r-- 1 nobody nogroup  6084 May 06  2020 class-wp-widget-media-audio.php
+-rw-r--r-- 1 nobody nogroup  7286 May 06  2020 class-wp-widget-media-gallery.php
+-rw-r--r-- 1 nobody nogroup 12034 Aug 12 10:44 class-wp-widget-media-image.php
+-rw-r--r-- 1 nobody nogroup  8407 May 06  2020 class-wp-widget-media-video.php
+-rw-r--r-- 1 nobody nogroup 14064 May 06  2020 class-wp-widget-media.php
+-rw-r--r-- 1 nobody nogroup  4067 Aug 12 10:44 class-wp-widget-meta.php
+-rw-r--r-- 1 nobody nogroup  5688 Aug 12 10:44 class-wp-widget-pages.php
+-rw-r--r-- 1 nobody nogroup  7036 Aug 12 10:44 class-wp-widget-recent-comments.php
+-rw-r--r-- 1 nobody nogroup  5914 Aug 12 10:44 class-wp-widget-recent-posts.php
+-rw-r--r-- 1 nobody nogroup  4486 Aug 12 10:44 class-wp-widget-rss.php
+-rw-r--r-- 1 nobody nogroup  2684 Aug 12 10:44 class-wp-widget-search.php
+-rw-r--r-- 1 nobody nogroup  6119 Aug 12 10:44 class-wp-widget-tag-cloud.php
+-rw-r--r-- 1 nobody nogroup 21267 May 06  2020 class-wp-widget-text.php

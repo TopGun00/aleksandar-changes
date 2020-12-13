@@ -1,0 +1,5 @@
+total 40
+-rw-r--r-- 1 nobody nogroup 15888 Feb 11  2018 native.php
+-rw-r--r-- 1 nobody nogroup  5210 Aug 12 10:44 shell.php
+-rw-r--r-- 1 nobody nogroup  8354 Aug 02  2017 string.php
+-rw-r--r-- 1 nobody nogroup  2210 Aug 02  2017 xdiff.php

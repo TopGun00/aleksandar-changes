@@ -1,0 +1,15 @@
+total 164
+-rw-r--r-- 1 nobody nogroup 15630 Aug 12 10:44 custom-html-widgets.js
+-rw-r--r-- 1 nobody nogroup  5566 May 06  2020 custom-html-widgets.min.js
+-rw-r--r-- 1 nobody nogroup  4284 May 06  2020 media-audio-widget.js
+-rw-r--r-- 1 nobody nogroup  1470 May 06  2020 media-audio-widget.min.js
+-rw-r--r-- 1 nobody nogroup 10354 May 06  2020 media-gallery-widget.js
+-rw-r--r-- 1 nobody nogroup  3796 May 06  2020 media-gallery-widget.min.js
+-rw-r--r-- 1 nobody nogroup  5468 May 06  2020 media-image-widget.js
+-rw-r--r-- 1 nobody nogroup  2044 May 06  2020 media-image-widget.min.js
+-rw-r--r-- 1 nobody nogroup  7020 May 06  2020 media-video-widget.js
+-rw-r--r-- 1 nobody nogroup  2735 May 06  2020 media-video-widget.min.js
+-rw-r--r-- 1 nobody nogroup 42722 Aug 12 10:44 media-widgets.js
+-rw-r--r-- 1 nobody nogroup 14294 May 06  2020 media-widgets.min.js
+-rw-r--r-- 1 nobody nogroup 18089 May 06  2020 text-widgets.js
+-rw-r--r-- 1 nobody nogroup  5911 May 06  2020 text-widgets.min.js

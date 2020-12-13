@@ -1,0 +1,10 @@
+total 492
+-rw-r--r-- 1 nobody nogroup  18944 Aug 12 10:44 handlers.js
+-rw-r--r-- 1 nobody nogroup  11362 Aug 12 10:44 handlers.min.js
+-rw-r--r-- 1 nobody nogroup  17987 Aug 02  2017 license.txt
+-rw-r--r-- 1 nobody nogroup 254084 Feb 11  2018 moxie.js
+-rw-r--r-- 1 nobody nogroup  88108 May 06  2020 moxie.min.js
+-rw-r--r-- 1 nobody nogroup  60314 Feb 11  2018 plupload.js
+-rw-r--r-- 1 nobody nogroup  15658 May 06  2020 plupload.min.js
+-rw-r--r-- 1 nobody nogroup  16171 Aug 12 10:44 wp-plupload.js
+-rw-r--r-- 1 nobody nogroup   5836 Aug 12 10:44 wp-plupload.min.js
