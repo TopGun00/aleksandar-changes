@@ -1,8 +1,8 @@
-wp-content:
+## wp-content
 
 https://pliki.sieciechowicz.pl/s/Dycrx4K2JimkcRD
 
-## Password
+Password:
 
 ```WitrazePass2020```
 
