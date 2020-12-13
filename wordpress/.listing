@@ -1,0 +1,24 @@
+total 240
+-rw-r--r--  1 nobody nogroup   524 Dec 10 11:09 .htaccess
+drwxr-xr-x  3 nobody nogroup  4096 Aug 03  2017 blogs
+-rw-r--r--  1 nobody nogroup   405 May 06  2020 index.php
+-rw-r--r--  1 nobody nogroup 19915 Aug 12 10:44 license.txt
+-rw-r--r--  1 nobody nogroup  7278 Oct 31 09:30 readme.html
+drwxr-xr-x  2 nobody nogroup 20480 Dec 12 08:06 tmp
+-rw-r--r--  1 nobody nogroup  7101 Aug 12 10:44 wp-activate.php
+drwxr-xr-x 11 nobody nogroup  4096 Oct 07 16:28 wp-admin
+-rw-r--r--  1 nobody nogroup   351 May 06  2020 wp-blog-header.php
+-rw-r--r--  1 nobody nogroup  2332 Aug 12 10:44 wp-comments-post.php
+-rw-r--r--  1 nobody nogroup  2913 May 06  2020 wp-config-sample.php
+-rw-r--r--  1 nobody nogroup  3151 Sep 11  2017 wp-config.php
+drwxr-xr-x 15 nobody nogroup  4096 Dec 12 10:54 wp-content
+-rw-r--r--  1 nobody nogroup  3940 May 06  2020 wp-cron.php
+drwxr-xr-x 24 nobody nogroup 12288 Aug 12 10:44 wp-includes
+-rw-r--r--  1 nobody nogroup  2496 May 06  2020 wp-links-opml.php
+-rw-r--r--  1 nobody nogroup  3300 May 06  2020 wp-load.php
+-rw-r--r--  1 nobody nogroup 48761 Aug 12 10:44 wp-login.php
+-rw-r--r--  1 nobody nogroup  8509 May 06  2020 wp-mail.php
+-rw-r--r--  1 nobody nogroup 20181 Aug 12 10:44 wp-settings.php
+-rw-r--r--  1 nobody nogroup 31159 Aug 12 10:44 wp-signup.php
+-rw-r--r--  1 nobody nogroup  4755 May 06  2020 wp-trackback.php
+-rw-r--r--  1 nobody nogroup  3236 Aug 12 10:44 xmlrpc.php

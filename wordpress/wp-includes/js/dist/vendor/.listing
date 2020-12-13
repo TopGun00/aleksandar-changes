@@ -1,0 +1,23 @@
+total 2556
+-rw-r--r-- 1 nobody nogroup 542559 Aug 12 10:44 lodash.js
+-rw-r--r-- 1 nobody nogroup  72805 Aug 12 10:44 lodash.min.js
+-rw-r--r-- 1 nobody nogroup 173825 Aug 12 10:44 moment.js
+-rw-r--r-- 1 nobody nogroup  59059 Aug 12 10:44 moment.min.js
+-rw-r--r-- 1 nobody nogroup 930766 May 06  2020 react-dom.js
+-rw-r--r-- 1 nobody nogroup 114123 May 06  2020 react-dom.min.js
+-rw-r--r-- 1 nobody nogroup 120044 May 06  2020 react.js
+-rw-r--r-- 1 nobody nogroup  13317 May 06  2020 react.min.js
+-rw-r--r-- 1 nobody nogroup   1919 May 06  2020 wp-polyfill-dom-rect.js
+-rw-r--r-- 1 nobody nogroup    888 May 06  2020 wp-polyfill-dom-rect.min.js
+-rw-r--r-- 1 nobody nogroup    895 May 06  2020 wp-polyfill-element-closest.js
+-rw-r--r-- 1 nobody nogroup    417 May 06  2020 wp-polyfill-element-closest.min.js
+-rw-r--r-- 1 nobody nogroup  14805 May 06  2020 wp-polyfill-fetch.js
+-rw-r--r-- 1 nobody nogroup   7987 May 06  2020 wp-polyfill-fetch.min.js
+-rw-r--r-- 1 nobody nogroup   9631 May 06  2020 wp-polyfill-formdata.js
+-rw-r--r-- 1 nobody nogroup   7165 May 06  2020 wp-polyfill-formdata.min.js
+-rw-r--r-- 1 nobody nogroup    531 May 06  2020 wp-polyfill-node-contains.js
+-rw-r--r-- 1 nobody nogroup    353 May 06  2020 wp-polyfill-node-contains.min.js
+-rw-r--r-- 1 nobody nogroup 110332 May 06  2020 wp-polyfill-url.js
+-rw-r--r-- 1 nobody nogroup  47085 May 06  2020 wp-polyfill-url.min.js
+-rw-r--r-- 1 nobody nogroup 239724 Aug 12 10:44 wp-polyfill.js
+-rw-r--r-- 1 nobody nogroup  99310 Aug 12 10:44 wp-polyfill.min.js

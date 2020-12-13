@@ -1,0 +1,9 @@
+total 316
+-rw-r--r-- 1 nobody nogroup 134430 May 06  2020 Compat.php
+drwxr-xr-x 7 nobody nogroup   4096 May 06  2020 Core
+drwxr-xr-x 6 nobody nogroup   4096 May 06  2020 Core32
+-rw-r--r-- 1 nobody nogroup  54810 May 06  2020 Crypto.php
+-rw-r--r-- 1 nobody nogroup  55119 May 06  2020 Crypto32.php
+-rw-r--r-- 1 nobody nogroup  53281 May 06  2020 File.php
+drwxr-xr-x 2 nobody nogroup   4096 May 06  2020 PHP52
+-rw-r--r-- 1 nobody nogroup    158 May 06  2020 SodiumException.php

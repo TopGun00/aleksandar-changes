@@ -1,0 +1,4 @@
+total 20
+-rw-r--r-- 1 nobody nogroup 5875 Aug 12 10:44 class-wp-sitemaps-posts.php
+-rw-r--r-- 1 nobody nogroup 5081 Aug 12 10:44 class-wp-sitemaps-taxonomies.php
+-rw-r--r-- 1 nobody nogroup 4085 Aug 12 10:44 class-wp-sitemaps-users.php

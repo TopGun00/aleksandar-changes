@@ -1,0 +1,6 @@
+total 64
+-rw-r--r-- 1 nobody nogroup   178 Aug 02  2017 border-anim-h.gif
+-rw-r--r-- 1 nobody nogroup   178 Aug 02  2017 border-anim-v.gif
+-rw-r--r-- 1 nobody nogroup   790 Aug 02  2017 imgareaselect.css
+-rw-r--r-- 1 nobody nogroup 38130 May 06  2020 jquery.imgareaselect.js
+-rw-r--r-- 1 nobody nogroup  9714 May 06  2020 jquery.imgareaselect.min.js

@@ -1,0 +1,8 @@
+total 48
+-rw-r--r-- 1 nobody nogroup 1985 Aug 12 10:44 class-wp-sitemaps-index.php
+-rw-r--r-- 1 nobody nogroup 4366 Aug 12 10:44 class-wp-sitemaps-provider.php
+-rw-r--r-- 1 nobody nogroup 1884 Aug 12 10:44 class-wp-sitemaps-registry.php
+-rw-r--r-- 1 nobody nogroup 6797 Aug 12 10:44 class-wp-sitemaps-renderer.php
+-rw-r--r-- 1 nobody nogroup 8510 Aug 12 10:44 class-wp-sitemaps-stylesheet.php
+-rw-r--r-- 1 nobody nogroup 6290 Aug 12 10:44 class-wp-sitemaps.php
+drwxr-xr-x 2 nobody nogroup 4096 Aug 12 10:44 providers

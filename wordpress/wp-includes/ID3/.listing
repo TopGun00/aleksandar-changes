@@ -1,0 +1,20 @@
+total 1144
+-rw-r--r-- 1 nobody nogroup  52635 Aug 12 10:44 getid3.lib.php
+-rw-r--r-- 1 nobody nogroup  75114 Aug 12 10:44 getid3.php
+-rw-r--r-- 1 nobody nogroup   1307 Aug 02  2017 license.commercial.txt
+-rw-r--r-- 1 nobody nogroup   1361 May 06  2020 license.txt
+-rw-r--r-- 1 nobody nogroup 128084 Aug 12 10:44 module.audio-video.asf.php
+-rw-r--r-- 1 nobody nogroup  27099 Aug 12 10:44 module.audio-video.flv.php
+-rw-r--r-- 1 nobody nogroup 107155 Aug 12 10:44 module.audio-video.matroska.php
+-rw-r--r-- 1 nobody nogroup 164611 Aug 12 10:44 module.audio-video.quicktime.php
+-rw-r--r-- 1 nobody nogroup 134454 Aug 12 10:44 module.audio-video.riff.php
+-rw-r--r-- 1 nobody nogroup  39384 Aug 12 10:44 module.audio.ac3.php
+-rw-r--r-- 1 nobody nogroup  10886 Aug 12 10:44 module.audio.dts.php
+-rw-r--r-- 1 nobody nogroup  19669 Aug 12 10:44 module.audio.flac.php
+-rw-r--r-- 1 nobody nogroup 103608 Aug 12 10:44 module.audio.mp3.php
+-rw-r--r-- 1 nobody nogroup  43097 Aug 12 10:44 module.audio.ogg.php
+-rw-r--r-- 1 nobody nogroup  18809 Aug 12 10:44 module.tag.apetag.php
+-rw-r--r-- 1 nobody nogroup  13914 Aug 12 10:44 module.tag.id3v1.php
+-rw-r--r-- 1 nobody nogroup 154849 Aug 12 10:44 module.tag.id3v2.php
+-rw-r--r-- 1 nobody nogroup  11731 Aug 12 10:44 module.tag.lyrics3.php
+-rw-r--r-- 1 nobody nogroup  26245 May 06  2020 readme.txt

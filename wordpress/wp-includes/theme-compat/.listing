@@ -1,0 +1,10 @@
+total 40
+-rw-r--r-- 1 nobody nogroup 2145 Aug 12 10:44 comments.php
+-rw-r--r-- 1 nobody nogroup  972 May 06  2020 embed-404.php
+-rw-r--r-- 1 nobody nogroup 3451 May 06  2020 embed-content.php
+-rw-r--r-- 1 nobody nogroup  481 May 06  2020 embed.php
+-rw-r--r-- 1 nobody nogroup  438 Aug 02  2017 footer-embed.php
+-rw-r--r-- 1 nobody nogroup 1055 Aug 12 10:44 footer.php
+-rw-r--r-- 1 nobody nogroup  702 May 06  2020 header-embed.php
+-rw-r--r-- 1 nobody nogroup 1891 Aug 12 10:44 header.php
+-rw-r--r-- 1 nobody nogroup 4279 May 06  2020 sidebar.php

@@ -1,0 +1,10 @@
+total 36
+-rw-r--r-- 1 nobody nogroup 257 May 06  2020 about.php
+-rw-r--r-- 1 nobody nogroup 865 May 06  2020 admin.php
+-rw-r--r-- 1 nobody nogroup 261 May 06  2020 credits.php
+-rw-r--r-- 1 nobody nogroup 263 May 06  2020 freedoms.php
+-rw-r--r-- 1 nobody nogroup 251 May 06  2020 index.php
+-rw-r--r-- 1 nobody nogroup 758 May 06  2020 menu.php
+-rw-r--r-- 1 nobody nogroup 261 May 06  2020 privacy.php
+-rw-r--r-- 1 nobody nogroup 252 May 06  2020 profile.php
+-rw-r--r-- 1 nobody nogroup 250 May 06  2020 user-edit.php
