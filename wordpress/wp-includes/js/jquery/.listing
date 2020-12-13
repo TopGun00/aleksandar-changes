@@ -1,0 +1,19 @@
+total 260
+-rw-r--r-- 1 nobody nogroup 23515 May 06  2020 jquery-migrate.js
+-rw-r--r-- 1 nobody nogroup 10056 Aug 02  2017 jquery-migrate.min.js
+-rw-r--r-- 1 nobody nogroup  9315 May 06  2020 jquery.color.min.js
+-rw-r--r-- 1 nobody nogroup 41023 Feb 11  2018 jquery.form.js
+-rw-r--r-- 1 nobody nogroup 16193 May 06  2020 jquery.form.min.js
+-rw-r--r-- 1 nobody nogroup  5612 Aug 02  2017 jquery.hotkeys.js
+-rw-r--r-- 1 nobody nogroup  1793 Aug 02  2017 jquery.hotkeys.min.js
+-rw-r--r-- 1 nobody nogroup 96873 May 06  2020 jquery.js
+-rw-r--r-- 1 nobody nogroup  1819 Aug 02  2017 jquery.masonry.min.js
+-rw-r--r-- 1 nobody nogroup  3785 Aug 02  2017 jquery.query.js
+-rw-r--r-- 1 nobody nogroup  3457 Aug 02  2017 jquery.schedule.js
+-rw-r--r-- 1 nobody nogroup   783 Aug 02  2017 jquery.serialize-object.js
+-rw-r--r-- 1 nobody nogroup  3730 Aug 02  2017 jquery.table-hotkeys.js
+-rw-r--r-- 1 nobody nogroup  2295 Aug 02  2017 jquery.table-hotkeys.min.js
+-rw-r--r-- 1 nobody nogroup  1179 Aug 02  2017 jquery.ui.touch-punch.js
+-rw-r--r-- 1 nobody nogroup  6991 Aug 02  2017 suggest.js
+-rw-r--r-- 1 nobody nogroup  2993 Aug 02  2017 suggest.min.js
+drwxr-xr-x 2 nobody nogroup  4096 Aug 03  2017 ui

@@ -1,0 +1,6 @@
+total 84
+-rw-r--r-- 1 nobody nogroup  4161 May 06  2020 constants.php
+-rw-r--r-- 1 nobody nogroup  1345 May 06  2020 namespaced.php
+-rw-r--r-- 1 nobody nogroup 40955 May 06  2020 php72compat.php
+-rw-r--r-- 1 nobody nogroup  4491 May 06  2020 php72compat_const.php
+-rw-r--r-- 1 nobody nogroup 24518 May 06  2020 sodium_compat.php

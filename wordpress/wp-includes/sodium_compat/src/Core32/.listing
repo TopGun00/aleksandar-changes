@@ -1,0 +1,20 @@
+total 324
+-rw-r--r-- 1 nobody nogroup  22275 May 06  2020 BLAKE2b.php
+drwxr-xr-x 2 nobody nogroup   4096 May 06  2020 ChaCha20
+-rw-r--r-- 1 nobody nogroup  14511 May 06  2020 ChaCha20.php
+drwxr-xr-x 3 nobody nogroup   4096 May 06  2020 Curve25519
+-rw-r--r-- 1 nobody nogroup 134754 May 06  2020 Curve25519.php
+-rw-r--r-- 1 nobody nogroup  15541 Aug 12 10:44 Ed25519.php
+-rw-r--r-- 1 nobody nogroup   5297 May 06  2020 HChaCha20.php
+-rw-r--r-- 1 nobody nogroup   6941 May 06  2020 HSalsa20.php
+-rw-r--r-- 1 nobody nogroup  24542 May 06  2020 Int32.php
+-rw-r--r-- 1 nobody nogroup  31156 May 06  2020 Int64.php
+drwxr-xr-x 2 nobody nogroup   4096 May 06  2020 Poly1305
+-rw-r--r-- 1 nobody nogroup   1586 May 06  2020 Poly1305.php
+-rw-r--r-- 1 nobody nogroup  11506 May 06  2020 Salsa20.php
+drwxr-xr-x 2 nobody nogroup   4096 May 06  2020 SecretStream
+-rw-r--r-- 1 nobody nogroup   6613 May 06  2020 SipHash.php
+-rw-r--r-- 1 nobody nogroup    209 May 06  2020 Util.php
+-rw-r--r-- 1 nobody nogroup  11042 May 06  2020 X25519.php
+-rw-r--r-- 1 nobody nogroup   1775 May 06  2020 XChaCha20.php
+-rw-r--r-- 1 nobody nogroup   1379 May 06  2020 XSalsa20.php

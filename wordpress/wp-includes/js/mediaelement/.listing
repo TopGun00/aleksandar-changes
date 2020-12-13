@@ -1,0 +1,20 @@
+total 744
+-rw-r--r-- 1 nobody nogroup 273289 May 06  2020 mediaelement-and-player.js
+-rw-r--r-- 1 nobody nogroup 160453 May 06  2020 mediaelement-and-player.min.js
+-rw-r--r-- 1 nobody nogroup   2841 Feb 11  2018 mediaelement-migrate.js
+-rw-r--r-- 1 nobody nogroup   1193 May 06  2020 mediaelement-migrate.min.js
+-rw-r--r-- 1 nobody nogroup 130015 May 06  2020 mediaelement.js
+-rw-r--r-- 1 nobody nogroup  70925 May 06  2020 mediaelement.min.js
+-rw-r--r-- 1 nobody nogroup  15758 May 06  2020 mediaelementplayer-legacy.css
+-rw-r--r-- 1 nobody nogroup  11425 May 06  2020 mediaelementplayer-legacy.min.css
+-rw-r--r-- 1 nobody nogroup  15907 May 06  2020 mediaelementplayer.css
+-rw-r--r-- 1 nobody nogroup  11574 May 06  2020 mediaelementplayer.min.css
+-rw-r--r-- 1 nobody nogroup   2883 Feb 11  2018 mejs-controls.png
+-rw-r--r-- 1 nobody nogroup   4598 Feb 11  2018 mejs-controls.svg
+drwxr-xr-x 2 nobody nogroup   4096 Feb 11  2018 renderers
+-rw-r--r-- 1 nobody nogroup   4960 May 06  2020 wp-mediaelement.css
+-rw-r--r-- 1 nobody nogroup   2363 May 06  2020 wp-mediaelement.js
+-rw-r--r-- 1 nobody nogroup   4186 May 06  2020 wp-mediaelement.min.css
+-rw-r--r-- 1 nobody nogroup    907 May 06  2020 wp-mediaelement.min.js
+-rw-r--r-- 1 nobody nogroup   5357 May 06  2020 wp-playlist.js
+-rw-r--r-- 1 nobody nogroup   3431 May 06  2020 wp-playlist.min.js
